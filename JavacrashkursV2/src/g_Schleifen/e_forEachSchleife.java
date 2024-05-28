@@ -1,6 +1,6 @@
 package g_Schleifen;
 
-public class forEachSchleife {
+public class e_forEachSchleife {
     public static void main(String[] args) {
         
     }

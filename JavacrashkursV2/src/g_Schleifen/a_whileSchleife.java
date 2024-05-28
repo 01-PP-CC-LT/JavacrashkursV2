@@ -1,6 +1,6 @@
 package g_Schleifen;
 
-public class whileSchleife {
+public class a_whileSchleife {
     public static void main(String[] args) {
 
         int number = 1; //wir möchten eine Schleife schreiben die die Zahlen 1 - 5 nacheinander Ausgibt, hierzu legen wir die 1 als Anfangswert fest 

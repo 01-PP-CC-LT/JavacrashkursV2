@@ -1,6 +1,6 @@
 package g_Schleifen;
 
-public class forSchleife {
+public class c_forSchleife {
     public static void main(String[] args) {
 
         for (int i = 0; i <= 10; i++) { //Anfangswert = 0; solange i kleiner oder gleich 10 ist (i < 10) addiere 1 in jeder Schleife(i++)

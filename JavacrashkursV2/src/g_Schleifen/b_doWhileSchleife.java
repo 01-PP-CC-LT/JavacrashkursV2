@@ -1,6 +1,6 @@
 package g_Schleifen;
 
-public class doWhileSchleife {
+public class b_doWhileSchleife {
     public static void main(String[] args) {
         
         int number = 6;
