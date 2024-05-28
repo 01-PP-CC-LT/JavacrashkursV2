@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "doWhileSchleife",
+            "request": "launch",
+            "mainClass": "g_Schleifen.doWhileSchleife",
+            "projectName": "JavacrashkursV2_2194b8f8"
+        },
+        {
+            "type": "java",
             "name": "whileSchleifen",
             "request": "launch",
             "mainClass": "g_Schleifen.whileSchleifen",

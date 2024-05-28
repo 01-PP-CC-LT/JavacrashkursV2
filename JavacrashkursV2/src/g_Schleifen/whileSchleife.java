@@ -1,6 +1,6 @@
 package g_Schleifen;
 
-public class whileSchleifen {
+public class whileSchleife {
     public static void main(String[] args) {
 
         int number = 1; //wir möchten eine Schleife schreiben die die Zahlen 1 - 5 nacheinander Ausgibt, hierzu legen wir die 1 als Anfangswert fest 
@@ -23,4 +23,7 @@ public class whileSchleifen {
  * Eine While Schleife ähnelt der If-Abfrage
  * Sie wird Wiederhilt, solange bis eine Bedingung erfüllt wird
  * Bei einer while Schliefe wird die Bedingung mit einem booelschen Ausdruck (true/false) gebildet
+ * 
+ * ------------------------------------------------------
+ * Eine while Schleife ist eine sogenannte Kopfgesteuerte Schleife, das heißt die bedingung wird am ANFANG geprüft
  */
