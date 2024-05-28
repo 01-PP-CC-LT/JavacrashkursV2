@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ifAbfrage",
+            "request": "launch",
+            "mainClass": "e_IfBediungung.ifAbfrage",
+            "projectName": "JavacrashkursV2_2194b8f8"
+        },
+        {
+            "type": "java",
+            "name": "ModuloOperator",
+            "request": "launch",
+            "mainClass": "d_Operatoren.ModuloOperator",
+            "projectName": "JavacrashkursV2_2194b8f8"
+        },
+        {
+            "type": "java",
+            "name": "ArithmetischeOperatoren",
+            "request": "launch",
+            "mainClass": "d_Operatoren.ArithmetischeOperatoren",
+            "projectName": "JavacrashkursV2_2194b8f8"
+        },
+        {
+            "type": "java",
+            "name": "Launch It!",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "internalConsole"
+        }
+    ]
+}

@@ -33,6 +33,8 @@ public class PrimitiveDatentypen {
  * float = 32 bit ; für Fließkommazahlen (auch Gleitkommazahlen genannt)
  * double = 64 bit ; für Fließkommazahlen */
 
+//----------------------------------------------------------
+
  /*Die Klasse String 
  unter einer Klasse versteht man einen komplexen Datentyp
   * String: Ein String ist ein Textwert der übergeben wird 
