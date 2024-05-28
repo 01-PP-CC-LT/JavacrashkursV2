@@ -1,4 +1,4 @@
-package e_IfBediungung;
+package e_IfundElseBediungung;
 
 public class ifAbfrage {
     public static void main(String[] args) {

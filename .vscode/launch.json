@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "switchCase",
+            "request": "launch",
+            "mainClass": "f_switchCase.switchCase",
+            "projectName": "JavacrashkursV2_2194b8f8"
+        },
+        {
+            "type": "java",
             "name": "ifAbfrage",
             "request": "launch",
             "mainClass": "e_IfBediungung.ifAbfrage",
