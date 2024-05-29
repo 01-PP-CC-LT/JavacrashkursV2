@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "c_forSchleife",
+            "request": "launch",
+            "mainClass": "g_Schleifen.c_forSchleife",
+            "projectName": "JavacrashkursV2_2194b8f8"
+        },
+        {
+            "type": "java",
             "name": "d_verschachtelteSchleifen",
             "request": "launch",
             "mainClass": "g_Schleifen.d_verschachtelteSchleifen",

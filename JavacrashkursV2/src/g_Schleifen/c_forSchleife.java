@@ -4,7 +4,7 @@ public class c_forSchleife {
     public static void main(String[] args) {
 
         for (int i = 0; i <= 10; i++) { //Anfangswert = 0; solange i kleiner oder gleich 10 ist (i < 10) addiere 1 in jeder Schleife(i++)
-/* Der Dritte Teil der if-Schleife (hier i++) kann genauso gut auch größere Sprünge machen --> z.B. i += 5 */
+            //Wir können das Intervall der If-Schleife (hier i++) auch modifizieren, indem wir die Variable ändern  --> z.B. i += 5
             System.out.println(i);     //und gib den resultierenden Wert in der Konsole aus 
         }
         
