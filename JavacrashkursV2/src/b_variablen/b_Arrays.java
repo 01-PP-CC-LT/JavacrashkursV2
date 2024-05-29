@@ -17,8 +17,13 @@ public class b_Arrays {
             System.out.println(names[i]);
             
         }
-    }
+        String[] names1 = {"Lukas", "Dani", "Rene"}; //wenn wir die Elemente des Arrays bereits kennen und diese fest zuordnen möchten, ist auch diese schreibweise möglich
+        //wir können natürlich auch hier mit der Print Anweisung einzelne Elemente ausgeben, indem wir den Index des Elementes angeben statt mt [i] das komplette Array 
 
+        for (int i = 0; i < names1.length; i++) {
+            System.out.println(names1[i]);
+        }
+    } 
 }
 /* Arrays sind Datenstrukturen, die mehrere Werte (Variablen) beinhalten können
  * 
