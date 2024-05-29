@@ -5,6 +5,20 @@
             "name": "c_mehrdimensionaleArrays",
             "request": "launch",
             "mainClass": "b_variablen.c_mehrdimensionaleArrays",
+            "projectName": "JavacrashkursV2_735adc4d"
+        },
+        {
+            "type": "java",
+            "name": "e_forEachSchleife",
+            "request": "launch",
+            "mainClass": "g_Schleifen.e_forEachSchleife",
+            "projectName": "JavacrashkursV2_735adc4d"
+        },
+        {
+            "type": "java",
+            "name": "c_mehrdimensionaleArrays",
+            "request": "launch",
+            "mainClass": "b_variablen.c_mehrdimensionaleArrays",
             "projectName": "JavacrashkursV2_2194b8f8"
         },
         {
