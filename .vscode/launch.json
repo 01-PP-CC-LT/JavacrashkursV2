@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "e_forEachSchleife",
+            "request": "launch",
+            "mainClass": "g_Schleifen.e_forEachSchleife",
+            "projectName": "JavacrashkursV2_2194b8f8"
+        },
+        {
+            "type": "java",
             "name": "b_Arrays",
             "request": "launch",
             "mainClass": "b_variablen.b_Arrays",
