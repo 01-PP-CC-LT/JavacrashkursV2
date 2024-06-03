@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "b_methodenmitRueckgabewert",
+            "request": "launch",
+            "mainClass": "h_Methoden.b_methodenmitRueckgabewert",
+            "projectName": "JavacrashkursV2_735adc4d"
+        },
+        {
+            "type": "java",
             "name": "a_methodenohneRueckgabe",
             "request": "launch",
             "mainClass": "h_Methoden.a_methodenohneRueckgabe",
